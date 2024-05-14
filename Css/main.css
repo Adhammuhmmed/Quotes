@@ -1,31 +1,25 @@
 body {
     font-family: "Montserrat", sans-serif;
+    overflow: hidden;
 }
-
-
-.container .item {
+.item {
     border: 1px solid #748182;
 }
-
-
-.item h2 {
+.item .title h2 {
     font-size: 35px;
     font-weight: 900;
     color:#343434;
     font-family: "Montserrat", sans-serif;
 }
-
 .item h4 {
     color: #748182;
     font-size: 22px;
     font-weight: 400;
 }
-
 .item h3 {
     font-size: 18px;
     font-weight: 400;
 }
-
 .item p {
     font-size: 15px;
     color: black;
